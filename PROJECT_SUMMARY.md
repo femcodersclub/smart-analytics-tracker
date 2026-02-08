@@ -9,11 +9,13 @@ Sistema completo de analytics para demostrar **manipulación avanzada del DOM** 
 ## 📚 Conceptos Técnicos Cubiertos
 
 ### 1️⃣ Event Delegation
+
 - ✅ Un solo listener global en lugar de N listeners
 - ✅ Capturing phase vs Bubbling phase
 - ✅ Event path y propagación
 
 ### 2️⃣ IntersectionObserver
+
 - ✅ Detección de visibilidad eficiente
 - ✅ Tracking de tiempo real de visualización
 - ✅ Thresholds y configuración avanzada

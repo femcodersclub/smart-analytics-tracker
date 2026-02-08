@@ -1,0 +1,137 @@
+# 📊 Smart Analytics Tracker
+
+Sistema avanzado de tracking de interacciones del usuario construido con JavaScript vanilla y APIs modernas del DOM.
+
+Creado por **FemCoders Club** para el post: *"Manipulación del DOM como una Ingeniera"*
+
+---
+
+## 🎯 Objetivo del Proyecto
+
+Demostrar manipulación avanzada del DOM en JavaScript, sin frameworks ni dependencias externas.
+
+---
+
+## 📚 Conceptos Técnicos Cubiertos
+
+- Event Delegation
+- IntersectionObserver
+- MutationObserver
+- Custom Events (EventBus)
+- Performance Optimization
+- Rage Clicks, Heatmap, Scroll Analytics
+
+---
+
+## 🗂️ Estructura del Proyecto
+
+```
+smart-analytics-tracker/
+│
+├── src/           # Código fuente
+│   ├── core/      # Núcleo del sistema
+│   ├── collectors/# Recopiladores de datos
+│   ├── observers/ # Observers avanzados
+│   ├── utils/     # Utilidades
+│   └── index.js   # Entry point
+│
+├── demo/          # Demo interactiva
+│   ├── index.html # Página principal
+│   ├── styles.css # Estilos
+│   └── demo.js    # Lógica de la demo
+│
+├── docs/          # Documentación
+│   └── screenshots/
+│
+├── README.md      # Documentación principal
+├── ARCHITECTURE.md# Arquitectura técnica
+├── EXAMPLES.md    # Ejemplos de uso
+├── QUICKSTART.md  # Inicio rápido
+├── CONTRIBUTING.md# Guía de contribución
+├── LICENSE        # MIT License
+└── package.json   # Metadata
+```
+
+---
+
+## 🎨 Funcionalidades Principales
+
+- Click Tracking + Heatmap
+- Visibility Tracking
+- Scroll Analytics
+- Rage Click Detection
+
+---
+
+## 💻 Tecnologías Utilizadas
+
+- JavaScript ES6+ (Vanilla)
+- ES Modules
+- Web APIs: IntersectionObserver, MutationObserver, Performance API, Canvas API
+- CSS3, HTML5
+- **Dependencias:** 0
+
+---
+
+## 🚀 Quick Start
+
+### Demo Interactiva
+
+```bash
+cd demo
+python3 -m http.server 8000
+# Abre http://localhost:8000
+```
+
+### Uso en tu proyecto
+
+```javascript
+import { TrackerEngine, ClickCollector } from './src/index.js';
+const tracker = new TrackerEngine();
+tracker.use(new ClickCollector());
+tracker.start();
+// Exportar métricas
+tracker.export('analytics.json');
+```
+
+---
+
+## 📝 Ejemplo Mínimo
+
+```javascript
+import { TrackerEngine, ClickCollector } from './src/index.js';
+const tracker = new TrackerEngine();
+tracker.use(new ClickCollector());
+tracker.start();
+setTimeout(() => {
+  tracker.export('analytics.json');
+}, 30000);
+```
+
+---
+
+## 📊 Métricas del Proyecto
+
+- ~2,500 líneas de JavaScript
+- ~500 líneas de CSS
+- ~300 líneas de HTML
+- 100% documentado
+
+---
+
+## 💜 FemCoders Club
+
+Este proyecto demuestra que las desarrolladoras pueden:
+- Construir sistemas complejos desde cero
+- Dominar APIs avanzadas del navegador
+- Aplicar patrones de diseño profesionales
+- Optimizar para performance
+- Crear código mantenible y escalable
+
+**Mensaje:** No necesitas frameworks para hacer cosas increíbles. JavaScript vanilla + conocimiento profundo del DOM = Superpoderes 🦸‍♀️
+
+---
+
+**Creado por Irina Ichim** ([Irina-Ichim](https://github.com/Irina-Ichim)), cofundadora de FemCoders Club.
+
+*"Manipulación del DOM como una Ingeniera"*
