@@ -10,6 +10,8 @@ Creado por **Irina Ichim** ([Irina-Ichim](https://github.com/Irina-Ichim)), cofu
 
 Demostrar manipulación avanzada del DOM en JavaScript, sin frameworks ni dependencias externas.
 
+![Demo del Smart Analytics Tracker](assets/manipulacion-dom.png)
+
 ---
 
 ## 📚 Conceptos Técnicos Cubiertos
@@ -20,37 +22,6 @@ Demostrar manipulación avanzada del DOM en JavaScript, sin frameworks ni depend
 - Custom Events (EventBus)
 - Performance Optimization
 - Rage Clicks, Heatmap, Scroll Analytics
-
----
-
-## 🗂️ Estructura del Proyecto
-
-```
-smart-analytics-tracker/
-│
-├── src/           # Código fuente
-│   ├── core/      # Núcleo del sistema
-│   ├── collectors/# Recopiladores de datos
-│   ├── observers/ # Observers avanzados
-│   ├── utils/     # Utilidades
-│   └── index.js   # Entry point
-│
-├── demo/          # Demo interactiva
-│   ├── index.html # Página principal
-│   ├── styles.css # Estilos
-│   └── demo.js    # Lógica de la demo
-│
-├── docs/          # Documentación
-│   └── screenshots/
-│
-├── README.md      # Documentación principal
-├── ARCHITECTURE.md# Arquitectura técnica
-├── EXAMPLES.md    # Ejemplos de uso
-├── QUICKSTART.md  # Inicio rápido
-├── CONTRIBUTING.md# Guía de contribución
-├── LICENSE        # MIT License
-└── package.json   # Metadata
-```
 
 ---
 
@@ -140,5 +111,3 @@ Este proyecto demuestra que las desarrolladoras pueden:
 
 - Instagram: [@femcoders_club](https://www.instagram.com/femcoders_club/)
 - Slack: [Unirse a Slack](https://communityinviter.com/apps/femcodersclub/femcoders-club)
-
-*"Manipulación del DOM como una Ingeniera"*
