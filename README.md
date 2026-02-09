@@ -2,7 +2,9 @@
 
 > Sistema avanzado de tracking de interacciones del usuario construido con JavaScript vanilla y APIs modernas del DOM.
 
-Creado por **[FemCoders Club](https://femcodersclub.com)** para el post: *"Manipulación del DOM como una Ingeniera"*
+Creado por **[Irina Ichim](https://github.com/Irina-Ichim)** para **[FemCoders Club](https://femcodersclub.com)** - Post: [*"Manipulación del DOM como una Ingeniera"*](https://www.femcodersclub.com/assets/javascript/manipulacion-dom-ingeniera.webp)
+
+![Demo del Smart Analytics Tracker](assets/manipulacion-dom.png)
 
 ---
 
@@ -417,15 +419,6 @@ Si encuentras bugs o tienes sugerencias:
 
 ---
 
-## 📚 Recursos Adicionales
-
-- [MDN - IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
-- [MDN - MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
-- [MDN - Event Delegation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_delegation)
-- [Web.dev - requestAnimationFrame](https://web.dev/animations-guide/)
-
----
-
 ## 📝 Licencia
 
 MIT License - Ver [LICENSE](LICENSE) para más detalles.
@@ -436,11 +429,14 @@ MIT License - Ver [LICENSE](LICENSE) para más detalles.
 
 Apoyando a mujeres en tecnología en España desde 2022.
 
-- 🌐 [femcodersclub.com](https://femcodersclub.com)
-- 💬 [Comunidad Slack](https://join.slack.com/t/femcodersclub/shared_invite/...)
-- 📸 [Instagram](https://instagram.com/femcodersclub)
-- 🐦 [Twitter](https://twitter.com/femcodersclub)
+- 🌐 **Web:** [femcodersclub.com](https://femcodersclub.com)
+- 📸 **Instagram:** [@femcoders_club](https://www.instagram.com/femcoders_club/)
+- 🐦 **Twitter/X:** [@FemCodersClub](https://x.com/FemCodersClub)
+- 💼 **LinkedIn:** [FemCoders Club](https://www.linkedin.com/company/100394366)
+- 💬 **Comunidad Slack:** [Unirse a Slack](https://communityinviter.com/apps/femcodersclub/femcoders-club)
 
 ---
 
-**Hecho con 💜 por FemCoders Club**
+**Creado con 💜 por [Irina Ichim](https://github.com/Irina-Ichim) para FemCoders Club**
+
+*"Manipulación del DOM como una Ingeniera"*
