@@ -2,7 +2,7 @@
 
 Sistema avanzado de tracking de interacciones del usuario construido con JavaScript vanilla y APIs modernas del DOM.
 
-Creado por **FemCoders Club** para el post: *"Manipulación del DOM como una Ingeniera"*
+Creado por **Irina Ichim** ([Irina-Ichim](https://github.com/Irina-Ichim)), cofundadora de FemCoders Club, para el post: *"Manipulación del DOM como una Ingeniera"*
 
 ---
 
@@ -133,5 +133,12 @@ Este proyecto demuestra que las desarrolladoras pueden:
 ---
 
 **Creado por Irina Ichim** ([Irina-Ichim](https://github.com/Irina-Ichim)), cofundadora de FemCoders Club.
+
+---
+
+## 🌐 Comunidad FemCoders Club
+
+- Instagram: [@femcoders_club](https://www.instagram.com/femcoders_club/)
+- Slack: [Unirse a Slack](https://communityinviter.com/apps/femcodersclub/femcoders-club)
 
 *"Manipulación del DOM como una Ingeniera"*
